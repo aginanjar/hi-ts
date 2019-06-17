@@ -1,0 +1,16 @@
+{
+  "name": "hi-ts",
+  "version": "1.0.0",
+  "description": "Introduction to typescript (ts)",
+  "main": "index.js",
+  "scripts": {
+    "ch1": "tsc ch1/basic.ts --outDir ch1/dist && node ch1/dist/basic.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "typescript"
+  ],
+  "author": "ahmad.ginanjar.m@gmail.com",
+  "license": "ISC"
+}
